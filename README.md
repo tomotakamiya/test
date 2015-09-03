@@ -3,6 +3,3 @@
 ========
 Githubのテスト
 
-##メンバー
-
-*testmember
